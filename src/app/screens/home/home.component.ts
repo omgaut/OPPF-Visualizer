@@ -10,7 +10,6 @@ import * as XLSX from 'xlsx';
 export class HomeComponent implements OnInit {
 
 
-
   private map: mapboxgl.Map | null = null;
   private markers: mapboxgl.Marker[] = [];
   private data: any[] = [];
