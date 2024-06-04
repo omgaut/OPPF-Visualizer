@@ -1,5 +1,6 @@
-# OppVisualizer
+# OPPF Visualizer
 
+Worked with Dr. Harper at North Carolina Central University to visualize the history of the Omega Psi Phi Fraternity using Angular and Bootstrap.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
 ## Development server
